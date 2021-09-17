@@ -68,84 +68,91 @@
     :alt: alternate text
     :align: center
 
-9. Загрузите необходимое **изображение** для ресурса.
+9. Нажмите на поле **Расписание**. Заполните его, используя инструкцию :ref:`admin4-label`.
+
+.. figure:: _static/mimk/mimk9.png
+    :scale: 42 %
+    :alt: alternate text
+    :align: center
+
+10. Загрузите необходимое **изображение** для ресурса.
 
 .. figure:: _static/manager1/M7.png
     :scale: 42 %
     :alt: alternate text
     :align: center
 
-10. Нажмите на поле **Параметры ресурса**.
+11. Нажмите на поле **Параметры ресурса**.
 
 .. figure:: _static/manager1/M8.png
     :scale: 42 %
     :alt: alternate text
     :align: center
 
-11. Введите **значения**, как на изображении ниже.
+12. Введите **значения**, как на изображении ниже.
 
 .. figure:: _static/manager1/M9.png
     :scale: 42 %
     :alt: alternate text
     :align: center
 
-12. Нажмите на поле **Условия использования**.
+13. Нажмите на поле **Условия использования**.
 
 .. figure:: _static/manager1/M10.png
     :scale: 42 %
     :alt: alternate text
     :align: center
 
-13. Выберите **Использование услуги**.
+14. Выберите **Использование услуги**.
 
 .. figure:: _static/manager1/M11.png
     :scale: 42 %
     :alt: alternate text
     :align: center
 
-14. Нажмите на текст **Добавить услугу для ресурса**
+15. Нажмите на текст **Добавить услугу для ресурса**
 
 .. figure:: _static/manager1/M12.png
     :scale: 42 %
     :alt: alternate text
     :align: center
 
-15. Нажмите на поле **Услуга**.
+16. Нажмите на поле **Услуга**.
 
 .. figure:: _static/manager1/M13.png
     :scale: 42 %
     :alt: alternate text
     :align: center
 
-16. Введите в **поисковую строку** название необходимой услуги, затем выберите её и нажмите на |галка|.
+17. Введите в **поисковую строку** название необходимой услуги, затем выберите её и нажмите на |галка|.
 
 .. figure:: _static/manager1/M14.png
     :scale: 42 %
     :alt: alternate text
     :align: center
 
-17. Нажмите на поле **Шаг записи на услугу**.
+18. Нажмите на поле **Шаг записи на услугу**.
 
 .. figure:: _static/manager1/M15.png
     :scale: 42 %
     :alt: alternate text
     :align: center
 
-18. Выберите **Менеджер первой линии** и нажмите |галка|.
+19. Выберите **Менеджер первой линии** и нажмите |галка|.
 
 .. figure:: _static/manager1/M16.png
     :scale: 42 %
     :alt: alternate text
     :align: center
 
-19. Сохрание **ресурс**. Для этого нажмите на |галка|.
+20. Сохраните **ресурс**. Для этого нажмите на |галка|.
 
 .. figure:: _static/manager1/M17.png
     :scale: 42 %
     :alt: alternate text
     :align: center
 
-20. Ваш ресурс **готов**!
+21. Ваш ресурс **готов**!
 
 .. figure:: _static/manager1/M18.png
     :scale: 42 %

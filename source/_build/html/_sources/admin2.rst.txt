@@ -68,6 +68,13 @@
     :alt: alternate text
     :align: center
 
+Нажмите на поле **Расписание**. Заполните его, используя инструкцию :ref:`admin4-label`.
+
+.. figure:: _static/mimk/mimk9.png
+    :scale: 42 %
+    :alt: alternate text
+    :align: center
+
 9. Загрузите необходимое **изображение** для ресурса.
 
 .. figure:: _static/manager1/M7.png
@@ -138,7 +145,7 @@
     :alt: alternate text
     :align: center
 
-19. Сохрание **ресурс**. Для этого нажмите на |галка|.
+19. Сохраните **ресурс**. Для этого нажмите на |галка|.
 
 .. figure:: _static/manager1/M17.png
     :scale: 42 %

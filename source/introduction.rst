@@ -32,6 +32,6 @@
     
     .. _`info.torrow.net`: https://www.info.torrow.net/
 
-Web-версия приложения Torrow_
+Web-версия приложения Torrow_.
     
     .. _Torrow: https://torrow.net/
