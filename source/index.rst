@@ -18,7 +18,6 @@
    
    introduction
    registration
-   element1
 
 .. toctree::
    :maxdepth: 2
