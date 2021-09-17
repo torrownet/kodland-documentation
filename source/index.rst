@@ -17,7 +17,6 @@
    :caption: Общая информация
    
    introduction
-   registration
 
 .. toctree::
    :maxdepth: 2
