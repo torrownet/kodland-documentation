@@ -3,10 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Добро пожаловать в Torrow!
+Добро пожаловать в Kodland!
 ==========================
 
-В руководстве вы сможете найти всю информацию о продукте компании Torrow Technologies.
+В руководстве вы сможете найти всю информацию о настройке услуг записи в приложении.
 
 
 .. note:: Разделы постоянно пополняются, если Вы не нашли ответ на свой вопрос, можете написать его нашей `службе поддержки`_
@@ -18,23 +18,47 @@
    
    introduction
    registration
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Элементы Torrow
-
-   elements
    element1
-   element2
-   element3
-   element4
-   element5
-   element6
-   element7
 
 .. toctree::
    :maxdepth: 2
-   :caption: Настройка приложения
+   :caption: Инструкция для Администратора
+
+   admin1
+   admin2
+   admin3
+   admin4
+   admin5
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: Инструкция для Менеджера первой линии
+
+   manager
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Инструкция для Методиста индивидуального мастер класса
+
+   mimk
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Инструкция для Руководителя
+
+   supervisor
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Инструкция для Клиента
+
+   customer
+
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Настройка приложения Torrow
    
    customization
    faq
