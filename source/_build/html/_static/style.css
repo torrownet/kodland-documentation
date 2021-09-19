@@ -320,3 +320,14 @@ a {
 .git-ribbon {
     display: none;
 }
+
+.rst-content table.docutils caption, .rst-content table.field-list caption, .wy-table caption {
+    color: #000;
+    font: italic 100%/1 arial,sans-serif;
+    padding: 1em 0;
+    text-align: center;
+}
+
+.wy-table-responsive table td, .wy-table-responsive table th {
+    white-space: normal;
+}

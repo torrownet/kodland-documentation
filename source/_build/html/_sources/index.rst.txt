@@ -17,6 +17,7 @@
    :caption: Общая информация
    
    introduction
+   customer/customer.rst
 
 .. toctree::
    :maxdepth: 2
@@ -26,7 +27,6 @@
    manager_m1/index.rst
    MIMK/index.rst
    boss/index.rst
-   customer/customer.rst
    
 .. toctree::
    :maxdepth: 2
