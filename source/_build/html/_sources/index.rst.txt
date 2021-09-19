@@ -17,44 +17,17 @@
    :caption: Общая информация
    
    introduction
-   registration
 
 .. toctree::
    :maxdepth: 2
-   :caption: Инструкция для Администратора
+   :caption: Инструкции для работы с заказами
 
-   admin1
-   admin2
-   admin3
-   admin4
-   admin5
+   administrator/index.rst
+   manager_m1/index.rst
+   MIMK/index.rst
+   boss/index.rst
+   customer/customer.rst
    
-.. toctree::
-   :maxdepth: 2
-   :caption: Инструкция для Менеджера (М1)
-
-   manager
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Инструкция для Методиста (МИМК)
-
-   mimk
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Инструкция для Руководителя
-
-   supervisor
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Инструкция для Клиента
-
-   customer
-
-
-
 .. toctree::
    :maxdepth: 2
    :caption: Настройка приложения Torrow
