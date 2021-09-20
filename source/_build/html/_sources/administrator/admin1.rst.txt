@@ -8,9 +8,7 @@
 
     .. _`Создание услуги с типом Заказ на время`: https://torrownet.readthedocs.io/ru/latest/service/order-on-time.html
 
-
-
-.. figure:: media/imk1.png
+.. figure:: media/imk2.png
     :scale: 42 %
     :alt: alternate text
     :align: center
@@ -47,7 +45,7 @@
      - Необходим, чтобы заказ создавался в состоянии "Проверяется"
    * - **Расписание**
      - **Да**
-     - **Используйте инструкцию**: **https://torrownet.readthedocs.io/ru/latest/resource/timetable-resource.html**
+     - **Используйте инструкцию**: https://torrownet.readthedocs.io/ru/latest/resource/timetable-resource.html
    * - Перерыв между событиями
      - Оставить поле пустым
      - Данный параметр не нужен для использования услуги

@@ -26,6 +26,8 @@
     .. |галка| image:: media/galka.png
         :scale: 42 %
 
+.. hint:: Если необходимо отправить сообщение клиенту при отмене заявки, просто введите его в поле **Сообщение участникам**.
+
 .. figure:: media/order/order_m7.png
     :scale: 42 %
     :alt: alternate text
