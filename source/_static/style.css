@@ -202,8 +202,8 @@ div.document {
   
 .wy-menu-vertical li.toctree-l2 a {
     border: 0px;
-    background-color: #5f4b8b59;
-    color: #fcfcfc;
+    background-color: #eeef;
+    color: #3d3d3d;
 }
   
 .wy-menu-vertical li.toctree-l2 a span.toctree-expand {
