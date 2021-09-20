@@ -125,7 +125,7 @@ div.document {
 }
   
 .wy-menu-vertical li.current > a {
-    background-color: #c8b2fb;
+    background-color: #e6def9;
     color: #3d3d3d;
 }
   
@@ -148,8 +148,8 @@ div.document {
 }
   
 .wy-menu-vertical li.current > a:hover {
-    background-color: #01192d;
-    color: white;
+    background-color: #c8b2fb;
+    color: #3d3d3d;
 }
   
 .wy-menu-vertical li.current > a:hover span.toctree-expand {
