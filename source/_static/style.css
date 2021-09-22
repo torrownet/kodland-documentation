@@ -121,9 +121,16 @@ div.document {
 
 .wy-menu-vertical a:hover {
     background-color: unset;
+    color: #000000;
     opacity: 1;
 }
-  
+
+.wy-menu-vertical a:visited {
+    background-color: unset;
+    color: #3d3d3d;
+    opacity: 1;
+}
+
 .wy-menu-vertical li.current > a {
     background-color: #e6def9;
     color: #3d3d3d;
@@ -160,7 +167,7 @@ div.document {
     opacity: 0.85;
 }
   
-.wy-menu-vertical .toctree-l1 a:hover {
+.wy-menu-vertical li.toctree-l1 a:hover {
     opacity: 1;
     background-color: inherit;
     color: #000000;
@@ -263,6 +270,15 @@ div.document {
     color: #3d3d3d;
 }
 
+.rst-content section ul li {
+    margin-top: 0;
+    color: #5F4B8B;  
+}
+
+.rst-content .section ul li:hover {
+    margin-top: 0;
+    color: #8e79bd;
+}
 
 /* .rst-content .section ul li>:first-child { */
     /* margin-top: 0; */
