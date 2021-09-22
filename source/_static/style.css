@@ -169,7 +169,6 @@ div.document {
   
 .wy-menu-vertical li.toctree-l1 a:hover {
     opacity: 1;
-    background-color: inherit;
     color: #000000;
 }
 
