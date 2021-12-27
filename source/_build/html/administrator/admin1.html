@@ -7,7 +7,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   
-  <title>Настройка подачи заявок для возрастной группы &mdash; Kodland.org  documentation</title>
+  <title>Настройка подачи заявок для возрастной группы &mdash; Online-school Manual  documentation</title>
   
 
   
@@ -19,7 +19,7 @@
 
   
   
-    <link rel="shortcut icon" href="../_static/favicon_kodland.ico"/>
+    <link rel="shortcut icon" href="../_static/favicon.ico"/>
   
 
   
@@ -59,12 +59,12 @@
           
 
           
-            <a href="../index.html" class="icon icon-home"> Kodland.org
+            <a href="../index.html" class="icon icon-home"> Online-school Manual
           
 
           
             
-            <img src="../_static/Logo_Kodland.png" class="logo" alt="Logo"/>
+            <img src="../_static/Logo_online.png" class="logo" alt="Logo"/>
           
           </a>
 
@@ -132,7 +132,7 @@
       <nav class="wy-nav-top" aria-label="top navigation">
         
           <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
-          <a href="../index.html">Kodland.org</a>
+          <a href="../index.html">Online-school Manual</a>
         
       </nav>
 
@@ -350,17 +350,33 @@
 <td><p>0</p></td>
 <td><p>Необходимо, чтобы не было ограничений по данному числу ресурсов</p></td>
 </tr>
-<tr class="row-odd"><td><p>Начало периода</p></td>
+<tr class="row-odd"><td><p><strong>Фильтрация заказов для очереди</strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Начало периода</p></td>
 <td><p>Оставить поле пустым</p></td>
 <td><p>Нет ограничения по дате начала</p></td>
 </tr>
-<tr class="row-even"><td><p>Окончание периода</p></td>
+<tr class="row-odd"><td><p>Окончание периода</p></td>
 <td><p>24 часа</p></td>
 <td><p>Проверка Заказа за 24 часа до записи</p></td>
 </tr>
-<tr class="row-odd"><td><p>Статус заказа</p></td>
+<tr class="row-even"><td><p>Статус заказа</p></td>
 <td><p>Согласуется</p></td>
 <td><p>Нужен для корректной работы услуги</p></td>
+</tr>
+<tr class="row-odd"><td><p>Время начала</p></td>
+<td><p>10:00</p></td>
+<td><p>Время клиента начало (будут подобраны заявки от клиентов, время которых ограничено текущим интервалом)</p></td>
+</tr>
+<tr class="row-even"><td><p>Время окончания</p></td>
+<td><p>19:00</p></td>
+<td><p>Время клиента окончание (будут подобраны заявки от клиентов, время которых ограничено текущим интервалом)</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Обработка заказов в очереди</strong></p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="row-even"><td><p>Выполнять операцию с заказом</p></td>
 <td><p>Не выполнять операцию</p></td>
@@ -370,15 +386,19 @@
 <td><p>1 час</p></td>
 <td><p>Время, на которое будет отложен заказ при освобождении ресурса</p></td>
 </tr>
-<tr class="row-even"><td><p>Изменить участие на</p></td>
+<tr class="row-even"><td><p><strong>Участие ресурса в заказе</strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Изменить участие на</p></td>
 <td><p>Не участвует</p></td>
 <td><p>Данный ресурс не будет назначаться исполнителем заказа</p></td>
 </tr>
-<tr class="row-odd"><td><p>Доступность ресурса во время заказа</p></td>
+<tr class="row-even"><td><p>Доступность ресурса во время заказа</p></td>
 <td><p>Свободен</p></td>
 <td><p>Ресурс не является исполнителем заказа</p></td>
 </tr>
-<tr class="row-even"><td><p>Не показывать в календаре</p></td>
+<tr class="row-odd"><td><p>Не показывать в календаре</p></td>
 <td><p>Да</p></td>
 <td><p>Менеджеру нет необходимости видеть заказы в своем расписании</p></td>
 </tr>
@@ -418,17 +438,33 @@
 <td><p>1 и более</p></td>
 <td><p>Значение больше 1, на которое умножается доступное число ресурсов, для получения числа возможных заказов на одно и то же время</p></td>
 </tr>
-<tr class="row-odd"><td><p>Начало периода</p></td>
+<tr class="row-odd"><td><p><strong>Фильтрация заказов для очереди</strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Начало периода</p></td>
 <td><p>15 минут</p></td>
 <td><p>Взятие Заказа, который должен был начаться за 15 минут до текущего времени</p></td>
 </tr>
-<tr class="row-even"><td><p>Окончание периода</p></td>
+<tr class="row-odd"><td><p>Окончание периода</p></td>
 <td><p>15 минут</p></td>
 <td><p>Взятие Заказа, который должен начаться через 15 минут от текущего времени</p></td>
 </tr>
-<tr class="row-odd"><td><p>Статус заказа</p></td>
+<tr class="row-even"><td><p>Статус заказа</p></td>
 <td><p>Запланирован</p></td>
 <td><p>Нужен для корректной работы услуги</p></td>
+</tr>
+<tr class="row-odd"><td><p>Время начала</p></td>
+<td><p>Оставить поле пустым</p></td>
+<td><p>Параметр не нужен для функционирования услуги</p></td>
+</tr>
+<tr class="row-even"><td><p>Время окончания</p></td>
+<td><p>Оставить поле пустым</p></td>
+<td><p>Параметр не нужен для функционирования услуги</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Обработка заказов в очереди</strong></p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="row-even"><td><p>Выполнять операцию с заказом</p></td>
 <td><p>Взять заказ в работу</p></td>
@@ -438,15 +474,19 @@
 <td><p>5 минут</p></td>
 <td><p>Время, на которое будет отложен заказ при освобождении ресурса</p></td>
 </tr>
-<tr class="row-even"><td><p>Изменить участие на</p></td>
+<tr class="row-even"><td><p><strong>Участие ресурсов в заказе</strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Изменить участие на</p></td>
 <td><p>Исполнитель</p></td>
 <td><p>Данный ресурс будет назначен исполнителем заказа</p></td>
 </tr>
-<tr class="row-odd"><td><p>Доступность ресурса во время заказа</p></td>
+<tr class="row-even"><td><p>Доступность ресурса во время заказа</p></td>
 <td><p>Занят</p></td>
 <td><p>В расписании исполнителя будет отмечено занятое время</p></td>
 </tr>
-<tr class="row-even"><td><p>Не показывать в календаре</p></td>
+<tr class="row-odd"><td><p>Не показывать в календаре</p></td>
 <td><p>Нет</p></td>
 <td><p>В расписании исполнителя будет отображаться заказ</p></td>
 </tr>
