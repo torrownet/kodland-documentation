@@ -37,10 +37,62 @@
     
     .. _`Визитка Torrow`: https://torrownet.readthedocs.io/ru/latest/buisness-card/element1.html
 
-.. figure:: _static/buisness_card.png
-    :scale: 42 %
+1. Перейдите в профиль, нажав на иконку в правом нижнем углу
+
+.. figure:: _static/media/create_bc.png
+    :scale: 53 %
     :alt: alternate text
     :align: center
+
+---------------
+
+ .. |точка| image:: _static/media/tochka.png
+    :scale: 42 %
+
+2. Нажмите на |точка| в правом верхнем углу 
+
+.. figure:: _static/media/edit_profile.png
+    :scale: 53 %
+    :alt: alternate text
+    :align: center
+
+---------------
+
+3. Добавьте новую визитку
+
+.. figure:: _static/media/add_bc.png
+    :scale: 53 %
+    :alt: alternate text
+    :align: center
+
+---------------
+
+4. Заполните необходимую информацию. Нажмите на **Показать другие поля**, чтобы контактные данные были полными. Не забудьте загрузить фотографию.
+
+.. figure:: _static/media/fill_in_bc.png
+    :scale: 53 %
+    :alt: alternate text
+    :align: center
+
+---------------
+
+5. Так выглядит готовая заполненная визитка.
+
+.. figure:: _static/media/final_bc.png
+    :scale: 53 %
+    :alt: alternate text
+    :align: center
+
+---------------
+
+6. Установите **Тип доступности** - **По ссылке**. По желанию заполните уникальное имя.
+
+.. figure:: _static/media/edit_bc.png
+    :scale: 53 %
+    :alt: alternate text
+    :align: center
+
+---------------
 
 Полезные ссылки
 ---------------
