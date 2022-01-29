@@ -8,7 +8,15 @@
     
     .. _`Руководство Torrow`: https://torrownet.readthedocs.io/ru/latest/registration/registration.html
 
-Вы можете установить приложение на любой известный смартфон. Выберите подходящую платформу из списка:
+
+Вы можете воспользоваться `Веб-версией нашего приложения <https://torrow.net/>`_.
+
+.. figure:: _static/logo_web.png
+    :scale: 31 %
+    :target: https://torrow.net/
+    :align: center
+
+Или установить приложение на любой известный смартфон. Выберите подходящую платформу из списка:
 
 .. figure:: _static/googleplay.png
     :scale: 21 %
