@@ -1,7 +1,7 @@
 .. _manager3-label:
 
 ============================
-Подтверждение проведения ИМК
+Подтверждение проведения ИК
 ============================
 
 1. Чтобы **подтвердить** заказ, нажмите на кнопку **Подтверждается** |шарнир|.
@@ -10,14 +10,14 @@
         :scale: 42 %
 
 
-.. figure:: media/order/order_m2.png
+.. figure:: media/order/take6.png
     :scale: 42 %
     :alt: alternate text
     :align: center
 
 2. В появившемся меню выберите **Изменить состояние**.
 
-.. figure:: media/order/order_m3.png
+.. figure:: media/order/take7.png
     :scale: 42 %
     :alt: alternate text
     :align: center
@@ -27,14 +27,14 @@
     .. |галка| image:: media/galka.png
         :scale: 42 %
 
-.. figure:: media/order/order_m4.png
+.. figure:: media/order/take8.png
     :scale: 42 %
     :alt: alternate text
     :align: center
 
-4. **Готово!** Статус данного заказа изменен на **Запланировано** и будет передан в работу МИМК.
+4. **Готово!** Статус данного заказа изменен на **Запланировано** и будет передан в работу Менеджеру индивидуальной консультации.
 
-.. figure:: media/order/order_m5.png
+.. figure:: media/order/take9.png
     :scale: 42 %
     :alt: alternate text
     :align: center
