@@ -40,3 +40,33 @@
     :align: center
 
 -------------------------------
+
+Также вы можете добавить ссылку на конференцию или любую другую дополнительную информацию.
+
+5. Нажмите на |точка|
+   
+       .. |точка| image:: media/tochka.png
+        :scale: 42 %
+
+.. figure:: media/order/take_mik7.png
+    :scale: 42 %
+    :alt: alternate text
+    :align: center
+
+-------------------------------
+
+6. Выберите **Изменить**
+
+.. figure:: media/order/take_mik8.png
+    :scale: 42 %
+    :alt: alternate text
+    :align: center
+
+-------------------------------
+
+7. Заполните необходимые Вам поля и нажмите на |галка|.
+
+.. figure:: media/order/take_mik9.png
+    :scale: 42 %
+    :alt: alternate text
+    :align: center
