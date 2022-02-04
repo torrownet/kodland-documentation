@@ -9,7 +9,7 @@
     .. |точка| image:: media/tochka.png
         :scale: 42 %
 
-.. figure:: media/order/take11.png
+.. figure:: media/order/mpl_newtochka.png
     :scale: 42 %
     :alt: alternate text
     :align: center

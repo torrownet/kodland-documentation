@@ -4,7 +4,7 @@
 
 1. Если Вам необходимо изменить какую-либо контактную информацию клиента, то нажмите на |точка|
 
-.. |точка| image:: media/tochka.png
+    .. |точка| image:: media/tochka.png
         :scale: 42 %
 
 .. figure:: media/order/contact_info1.png

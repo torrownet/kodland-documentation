@@ -15,7 +15,7 @@
 
 .. hint:: Вам будет предложен Заказ, который зарегистрирован не ранее, чем **за 24 часа** до проведения ИК.
 
-.. figure:: media/order/take3.png
+.. figure:: media/order/mpl_new.png
     :scale: 42 %
     :alt: alternate text
     :align: center
@@ -24,7 +24,7 @@
 
 3. После нажатия кнопки **Получить заказ**, Вы увидите информацию о **Заказе** и **Клиенте**. После проверки необходимо **Подтвердить** (:ref:`manager3-label`) или **Отменить** (:ref:`manager4-label`) заказ.
 
-.. figure:: media/order/take4.png
+.. figure:: media/order/mpl_new2.png
     :scale: 42 %
     :alt: alternate text
     :align: center
@@ -40,7 +40,7 @@
 
 1. Нажмите на **контактный номер** клиента.
 
-.. figure:: media/order/take14.png
+.. figure:: media/order/mpl_new22.png
     :scale: 42 %
     :alt: alternate text
     :align: center

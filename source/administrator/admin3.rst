@@ -307,7 +307,7 @@
 
 20. Ваш ресурс **готов**!
 
-.. figure:: media/mik/mik20.png
+.. figure:: media/mik/mik_new.png
     :scale: 42 %
     :alt: alternate text
     :align: center

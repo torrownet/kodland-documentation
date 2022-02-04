@@ -9,7 +9,7 @@
 
 .. hint:: Вам будет предложен Заказ, который начнется не ранее, чем **за 15 минут** до проведения ИК.
 
-.. figure:: media/take_mik1.png
+.. figure:: media/mik_new.png
     :scale: 42 %
     :alt: alternate text
     :align: center
@@ -18,7 +18,7 @@
 
 2. После нажатия кнопки **Получить заказ**, Вы увидите информацию о **Заказе** и **Клиенте**.
 
-.. figure:: media/take_mik2.png
+.. figure:: media/mpl_new4.png
     :scale: 42 %
     :alt: alternate text
     :align: center

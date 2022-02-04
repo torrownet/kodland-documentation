@@ -289,7 +289,7 @@
 
 21. Ваш ресурс **готов**!
 
-.. figure:: media/manager1/mpl22.png
+.. figure:: media/manager1/mpl_new.png
     :scale: 42 %
     :alt: alternate text
     :align: center

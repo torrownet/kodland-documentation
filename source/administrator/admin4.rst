@@ -28,3 +28,19 @@
     :scale: 42 %
     :alt: alternate text
     :align: center
+
+------------------------
+
+Также менеджер может самостоятельно настроить свое расписание нажав на кнопку **Изменить график**
+
+.. figure:: media/mik_new.png
+    :scale: 42 %
+    :alt: alternate text
+    :align: center
+
+-----------------------------
+
+.. figure:: media/mpl_new.png
+    :scale: 42 %
+    :alt: alternate text
+    :align: center
