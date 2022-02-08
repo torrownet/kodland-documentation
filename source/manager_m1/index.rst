@@ -6,6 +6,7 @@
    :maxdepth: 2
    :caption: Инструкция для менеджера первой линии
    
+   manager
    manager1
    manager2
    manager3

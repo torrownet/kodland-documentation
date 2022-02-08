@@ -4,7 +4,7 @@
 
 1. Зайдите в Ваш ресурс **Менеджера первой линии поддержки**.
 
-.. figure:: media/order/take2.png
+.. figure:: media/order/work_man16.png
     :scale: 42 %
     :alt: alternate text
     :align: center

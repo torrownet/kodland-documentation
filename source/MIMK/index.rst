@@ -6,6 +6,7 @@
    :maxdepth: 2
    :caption: Инструкция для менеджера индивидуальных консультаций
    
+   mimk
    mimk1
    mimk2
    mimk3
