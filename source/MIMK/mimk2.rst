@@ -23,3 +23,50 @@
     :alt: alternate text
     :align: center
 
+Проверка наличия заказа
+--------------------------------
+
+1. При создании заказа и возникновении вопроса с ним операторы могут проверить его наличие с помощью Базы контактов. Она расположена в заметке "Для сотрудников"
+
+.. figure:: media/workplace/base24.png
+    :scale: 42 %
+    :alt: alternate text
+    :align: center
+
+-------------
+
+2. Войдите в Базу контактов
+
+.. figure:: media/workplace/base25.png
+    :scale: 42 %
+    :alt: alternate text
+    :align: center
+
+-------------
+
+3. Внутри можете увидеть строку поиска, где необходимо ввести телефон или имя клиента
+
+.. figure:: media/workplace/base20.png
+    :scale: 42 %
+    :alt: alternate text
+    :align: center
+
+-------------
+
+4. Далее открываем нужный контакт и нажимаем на **Расписание**
+
+.. figure:: media/workplace/base22.png
+    :scale: 42 %
+    :alt: alternate text
+    :align: center
+
+-------------
+
+5. Внутри проверяем наличие спорной заявки
+
+.. figure:: media/workplace/base23.png
+    :scale: 42 %
+    :alt: alternate text
+    :align: center
+
+-------------

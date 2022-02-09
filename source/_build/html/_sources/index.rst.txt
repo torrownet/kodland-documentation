@@ -18,6 +18,7 @@
    
    introduction
    customer/customer.rst
+   customer/customer1.rst
    customer/customer2.rst
 
 .. toctree::
