@@ -14,7 +14,14 @@
 
 1. Зайдите в **элемент**, который является хранилищем всех ресурсов типа **МИК**.
 
-.. figure:: media/mik/mik1.png
+.. figure:: media/mik/mpz3.png
+    :scale: 42 %
+    :alt: alternate text
+    :align: center
+
+-----------------------------
+
+.. figure:: media/mik/mpz2.png
     :scale: 42 %
     :alt: alternate text
     :align: center
@@ -127,7 +134,7 @@
 
 1. Зайдите в **элемент**, который является хранилищем всех ресурсов типа **МИК**. 
 
-.. figure:: media/mik/mik1.png
+.. figure:: media/mik/mpz2.png
     :scale: 42 %
     :alt: alternate text
     :align: center
@@ -289,7 +296,7 @@
 
 18. Выберите **Менеджер ИК** и нажмите |галка|.
 
-.. figure:: media/mik/mik18.png
+.. figure:: media/mik/mpz10.png
     :scale: 42 %
     :alt: alternate text
     :align: center

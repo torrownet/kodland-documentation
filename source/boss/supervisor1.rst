@@ -6,7 +6,7 @@
 
 1. Зайдите в необходимую **услугу**.
 
-.. figure:: media/watch_application/mpl.png
+.. figure:: media/watch_application/mpz5.png
     :scale: 42 %
     :alt: alternate text
     :align: center
