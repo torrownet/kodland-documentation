@@ -4,7 +4,6 @@
 
 .. toctree::
    :maxdepth: 1
-   :caption: Инструкция для администратора
    
    admin1
    admin2

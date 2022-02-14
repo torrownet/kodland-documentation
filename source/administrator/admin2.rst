@@ -21,7 +21,7 @@
 
 ---------------------------------
 
-.. figure:: media/manager1/mpz1.png
+.. figure:: media/manager1/consult1.png
     :scale: 42 %
     :alt: alternate text
     :align: center
@@ -133,7 +133,7 @@
 
 1. Зайдите в **элемент**, который является хранилищем всех ресурсов типа **Менеджер**.
 
-.. figure:: media/manager1/mpz1.png
+.. figure:: media/manager1/consult1.png
     :scale: 42 %
     :alt: alternate text
     :align: center
@@ -282,7 +282,7 @@
 
 19. Выберите **Менеджер (приём заявок)** и нажмите |галка|.
 
-.. figure:: media/manager1/mpz7.png
+.. figure:: media/manager1/consult4.png
     :scale: 42 %
     :alt: alternate text
     :align: center

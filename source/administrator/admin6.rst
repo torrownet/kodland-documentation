@@ -39,7 +39,7 @@
 
 4. Выберите заметку с подходящей группой менеджеров
 
-.. figure:: media/rights/admin4.png
+.. figure:: media/rights/consult15.png
     :scale: 42 %
     :alt: alternate text
     :align: center
@@ -48,7 +48,7 @@
 
 5. Нажмите **Сохранить**
 
-.. figure:: media/rights/admin5.png
+.. figure:: media/rights/consult16.png
     :scale: 42 %
     :alt: alternate text
     :align: center
@@ -69,7 +69,7 @@
 
 7. Перейдите в ресурс Менеджера, откройте **Подписчиков**
 
-.. figure:: media/rights/admin7.png
+.. figure:: media/rights/consult17.png
     :scale: 42 %
     :alt: alternate text
     :align: center

@@ -4,7 +4,6 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Инструкция для Менеджера (приём заявок)
    
    manager
    manager1

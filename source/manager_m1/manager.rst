@@ -105,7 +105,7 @@
 
 11. Далее **Менеджеры (приём заявок)**
 
-.. figure:: media/workplace/mpz1.png
+.. figure:: media/workplace/consult1.png
     :scale: 42 %
     :alt: alternate text
     :align: center
