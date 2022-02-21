@@ -10,3 +10,10 @@
 Ответы на самые **часто задаваемые вопросы** Вы сможете найти по ссылке: `FAQ Torrow`_.
 
     .. _`FAQ Torrow`: https://torrownet.readthedocs.io/ru/latest/faq/index.html
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: FAQ
+   
+   time-zone

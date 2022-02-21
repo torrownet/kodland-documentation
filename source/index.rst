@@ -35,4 +35,4 @@
    :caption: Настройка приложения Torrow
    
    customization
-   faq
+   faq/faq.rst
