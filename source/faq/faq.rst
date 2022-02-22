@@ -17,3 +17,5 @@
    :caption: FAQ
    
    time-zone
+   share-element
+   attach-element
