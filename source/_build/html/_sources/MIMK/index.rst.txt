@@ -6,9 +6,9 @@
    :maxdepth: 2
    
    mimk
+   mimk1
    mimk2
    mimk3
    mimk4
    mimk5
    mimk6
-   mimk1

@@ -6,6 +6,7 @@
    :maxdepth: 2
    
    manager
+   manager7
    manager1
    manager2
    manager3

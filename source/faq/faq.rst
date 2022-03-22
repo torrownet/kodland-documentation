@@ -16,6 +16,7 @@
    :maxdepth: 2
    :caption: FAQ
    
+   edit-element
    time-zone
    share-element
    attach-element

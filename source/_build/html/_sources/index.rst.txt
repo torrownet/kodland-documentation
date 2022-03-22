@@ -23,7 +23,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Инструкции для работы с заказами
+   :caption: Инструкции для работы
 
    administrator/index.rst
    manager_m1/index.rst

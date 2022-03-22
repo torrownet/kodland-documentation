@@ -210,12 +210,16 @@
     :alt: alternate text
     :align: center
 
+-----------------------------
+
 9. Нажмите на поле **Расписание**. Заполните его, используя инструкцию :ref:`admin4-label`.
 
 .. figure:: media/manager1/mpl10.png
     :scale: 42 %
     :alt: alternate text
     :align: center
+
+-----------------------------
 
 10. Загрузите необходимое **изображение** для ресурса.
 
@@ -224,12 +228,16 @@
     :alt: alternate text
     :align: center
 
+-----------------------------
+
 11. Нажмите на поле **Параметры ресурса**.
 
 .. figure:: media/manager1/mpl12.png
     :scale: 42 %
     :alt: alternate text
     :align: center
+
+-----------------------------
 
 12. Введите **значения**, как на изображении ниже.
 
@@ -238,12 +246,16 @@
     :alt: alternate text
     :align: center
 
+-----------------------------
+
 13. Нажмите на поле **Условия использования**.
 
 .. figure:: media/manager1/mpl14.png
     :scale: 42 %
     :alt: alternate text
     :align: center
+
+-----------------------------
 
 14. Выберите **Использование услуги**.
 
@@ -252,12 +264,16 @@
     :alt: alternate text
     :align: center
 
+-----------------------------
+
 15. Нажмите на текст **Добавить услугу для ресурса**
 
 .. figure:: media/manager1/mpl16.png
     :scale: 42 %
     :alt: alternate text
     :align: center
+
+-----------------------------
 
 16. Нажмите на поле **Услуга**.
 
@@ -266,12 +282,16 @@
     :alt: alternate text
     :align: center
 
+-----------------------------
+
 17. Введите в **поисковую строку** название необходимой услуги, затем выберите её и нажмите на |галка|.
 
 .. figure:: media/manager1/mpl18.png
     :scale: 42 %
     :alt: alternate text
     :align: center
+
+-----------------------------
 
 18. Нажмите на поле **Шаг записи на услугу**.
 
@@ -280,6 +300,8 @@
     :alt: alternate text
     :align: center
 
+-----------------------------
+
 19. Выберите **Менеджер (приём заявок)** и нажмите |галка|.
 
 .. figure:: media/manager1/consult4.png
@@ -287,12 +309,16 @@
     :alt: alternate text
     :align: center
 
+-----------------------------
+
 20. Сохраните **ресурс**. Для этого нажмите на |галка|.
 
 .. figure:: media/manager1/mpl21.png
     :scale: 42 %
     :alt: alternate text
     :align: center
+
+-----------------------------
 
 21. Ваш ресурс **готов**!
 
